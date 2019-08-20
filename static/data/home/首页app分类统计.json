@@ -1,0 +1,19 @@
+{"name":"赋能行业",
+	"data":
+	[
+		{"id":1,"name":"机械制造","icon":"icon-weixiuzaizhizao","percentage":"26","sort":"1"},
+    {"id":2,"name":"新能源汽车","icon":"icon-fuwuche","percentage":"12","sort":"4"},
+		{"id":3,"name":"工业锅炉","icon":"icon-guolu","percentage":"10","sort":"2"},
+		{"id":4,"name":"环保设备","icon":"icon-huanbaoshebei","percentage":"6","sort":"3"},
+    {"id":5,"name":"核心零部件制造","icon":"icon-hexinbujian","percentage":"10","sort":"7"},
+		{"id":6,"name":"建筑施工","icon":"icon-jianzhushigong","percentage":"15","sort":"5"},
+		{"id":7,"name":"港口服务","icon":"icon-gangkou","percentage":"18","sort":"6"},
+		{"id":8,"name":"轨道交通","icon":"icon-guidaojiaotong","percentage":"10","sort":"7"},
+    {"id":9,"name":"风电光电","icon":"icon-fengdian","percentage":"10","sort":"7"},
+    {"id":10,"name":"有色金属冶炼","icon":"icon-yousejinshu","percentage":"10","sort":"7"},
+    {"id":11,"name":"光缆","icon":"icon-guanglanhangye","percentage":"10","sort":"7"},
+    {"id":12,"name":"军工","icon":"icon-jungonghangye","percentage":"10","sort":"7"},
+    {"id":13,"name":"工程机械","icon":"icon-gongchengjixie","percentage":"10","sort":"7"},
+    {"id":14,"name":"陶瓷","icon":"icon-taoci","percentage":"10","sort":"7"}
+	]
+}

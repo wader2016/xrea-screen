@@ -1,0 +1,11 @@
+{"name":"接入设备top信息",
+	"data":
+	[
+		{"id":1,"name":"接入设备","num":"760109","unit":"台","class": "icon-shebei","sort":"1"},
+		{"id":2,"name":"设备种类","num":"2066","unit":"种","class": "icon-shebeizhonglei","sort":"2"},
+		{"id":3,"name":"工业协议覆盖率","num":"96","unit":"%","class": "icon-shebeixieyi","sort":"3"},
+		{"id":4,"name":"运行设备","num":"575128","unit":"台","class": "icon-yunhangshebei","sort":"4"},
+		{"id":5,"name":"设备总时长","num":"3216456905","unit":"小时","class": "icon-shebeizonggongzuoshichang","sort":"5"},
+		{"id":6,"name":"月平均开机时间","num":"132.7","unit":"小时","class": "icon-kaijishijian","sort":"6"}
+	]
+}

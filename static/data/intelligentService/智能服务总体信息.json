@@ -1,0 +1,9 @@
+{"name":"智能服务总体信息",
+	"data":
+	[
+		{"id":1,"name":"服务网点","num":"871","sort":"1","unit":"","class":"icon-fuwuwangdian"},
+		{"id":2,"name":"备件库","num":"329","sort":"2","unit":"","class":"icon-beijianku"},
+		{"id":3,"name":"服务人员","num":"5917","sort":"3","unit":"","class":"icon-fuwurenyuan"},
+		{"id":4,"name":"服务车","num":"1576","sort":"4","unit":"","class":"icon-fuwuche"}
+	]
+}

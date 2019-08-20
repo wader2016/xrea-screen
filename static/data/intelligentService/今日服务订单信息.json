@@ -1,0 +1,9 @@
+{"name":"今日服务订单",
+	"data":
+	[
+		{"id":1,"name":"报修","value":"560","sort":"1","unit":"个"},
+		{"id":2,"name":"投诉","value":"3","sort":"2","unit":"个"},
+		{"id":3,"name":"主动服务","value":"289","sort":"3","unit":"个"},
+		{"id":4,"name":"完成率","value":"73","sort":"4","unit":"%"}
+	]
+}

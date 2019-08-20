@@ -1,0 +1,67 @@
+{
+  "name": "泰隆减速机",
+  "data": {
+    "info1": {
+      "name": "客户简介",
+      "description": "江苏泰隆减速机股份有限公司是泰兴人引以为豪的国家大型企业、中国机械工业500强，连续10年蝉联全国减变行业排头兵企业。泰隆的产品成功应用于中华世纪坛、三峡大坝、杭州湾跨海大桥、北京奥体馆、上海世博会园区等国家重点工程。",
+      "image": "static/img/application/泰隆减速机.jpg"
+    },
+    "info2": {
+      "name": "解决方案",
+      "data": [
+        {
+          "name": "构建平台",
+          "class":"icon-guojia",
+          "description":"构建计划管控平台，跟踪订单加工信息，提高计划达成率。"
+        },
+        {
+          "name": "设备分析",
+          "class":"icon-yunyingfenxi",
+          "description":"分析设备 OEE，提升设备综合效率。"
+        },
+        {
+          "name": "集中管理",
+          "class":"icon-jizhongguanli",
+          "description":"采集机床加工参数，构建订单、设备、人员、物料的追溯体系。刀具管理、设备维保功能，降低刀具消耗，节省运维成本。"
+        }
+      ]
+    },
+    "info3": {
+      "name":"客户痛点",
+      "data": [
+        {
+          "name": "效率",
+          "description":"无法实时跟踪订单加工信息，设备综合效率不到30%。"
+        },
+        {
+          "name": "质量",
+          "description":"全流程质量追溯体系不健全。"
+        },
+        {
+          "name": "运维",
+          "description":"设备维护成本居高不下，突发故障较多，设备保养滞后。"
+        }
+      ]
+    },
+    "info4": {
+      "name": "项目成果",
+      "data": [
+        {
+          "name": "设备利用率",
+          "description":"3.6%",
+          "flag":"提升"
+        },
+        {
+          "name": "计划达成率",
+          "description":"8.3%",
+          "flag":"提升"
+        },
+        {
+          "name": "一次成品率",
+          "description":"2.1%",
+          "flag":"提升"
+        }
+      ]
+    }
+  }
+}

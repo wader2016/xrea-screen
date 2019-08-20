@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, dd, dl, dt, li, ol, ul,input,select,button,textarea,tr,td{ padding:0; margin:0; border:none;}
+input,button,select,textarea,a,img{outline:none; }/*去掉超链接或按钮点击时出现的虚线框黄色边框*/
+::-moz-focus-inner{border:0px;}/*火狐的私有属性去掉点击时边框*/
+body,html{ width:100%; font-family:"Microsoft YaHei","Arial", "SimSun";}
+ul, ul li, ol li, li {	list-style:none;}
+a, img, input, textarea {border:none;}
+a {
+    text-decoration: none;
+}
+table {	border-collapse: collapse;border-spacing:0;}
+.clearfix:after {visibility: hidden;display: block;font-size: 0;content: ".";clear: both;height: 0;}
+* html .clearfix {zoom: 1;}
+*:first-child + html .clearfix {zoom: 1;}
+.fl {	float:left;}
+.fr {	float:right;}
+.none{	display:none;}
+
+.inrow{
+  font-size:0;
+/*[;font-size:12px;];*/
+  /**font-size:0;*/
+  font-family:Impact;
+/*[;letter-spacing:-3px;];*/
+  letter-spacing:normal;
+  word-spacing:-1px;
+}
+.inrow>li,.inrow span{font-size:14px;letter-spacing:normal;word-spacing:normal; }
+.dataNums{display: flex; width:100%; height:16px; text-align:center;}
+.dataNums .dataOne{ width:11px; height:16px; margin: 0px; text-align: center;}
+.dataNums .dataBoc {position: relative; width: 100%; height: 100%; overflow: hidden;}
+.dataNums .dataBoc .tt {position: absolute; top: 0;  left: 0; width: 11px; height: 16px}
+.dataNums .tt span{display: inline-block;width: 11px; height: 16px; font:bold 16px/1 "Impact";}
+
+.gauge .dataNums{display: flex; width:100%; height:28px; text-align:center;}
+.gauge .dataNums .dataOne{ width:16px; height:28px; margin: 0px; text-align: center;}
+.gauge .dataNums .dataBoc .tt {position: absolute; top: 0;  left: 0; width: 16px; height: 28px}
+.gauge .dataNums .tt span{display: inline-block;width: 16px; height: 28px; font:bold 28px/1 "Impact";}
+
+.thermometer .dataNums{display: flex; width:100%; height:20px; text-align:center;}
+.thermometer .dataNums .dataOne{ width:12px; height:20px; margin: 0px; text-align: center;}
+.thermometer .dataNums .dataBoc .tt {position: absolute; top: 0;  left: 0; width: 12px; height: 20px}
+.thermometer .dataNums .tt span{display: inline-block;width: 12px; height: 20px; font:bold 20px/1 "Impact";}
+
+.healthNum .dataNums{display: flex; width:100%; height:48px; text-align:center;}
+.healthNum .dataNums .dataOne{ width:28px; height:48px; margin: 0px; text-align: center;}
+.healthNum .dataNums .dataBoc .tt {position: absolute; top: 0;  left: 0; width: 28px; height: 48px}
+.healthNum .dataNums .tt span{display: inline-block;width: 28px; height: 48px; font:bold 48px/1 "Impact";}
+
+#timeNum .dataNums, .devices-topInfo .dataNums{display: flex; width:100%; height:36px; text-align:center;}
+#timeNum .dataNums .dataOne, .devices-topInfo .dataNums .dataOne{ width:20px; height:36px; margin: 0px; text-align: center;}
+#timeNum .dataNums .dataBoc .tt, .devices-topInfo .dataNums .dataBoc .tt{position: absolute; top: 0;  left: 0; width: 20px; height: 36px}
+#timeNum .dataNums .tt span, .devices-topInfo .dataNums .tt span{display: block;width: 20px; height: 36px; font:bold 36px/1 "Impact";}
+
+#num1 .dataNums, #num3 .dataNums, .intelligentLogistics .right .line3-left .num .dataNums{
+  display: flex; width:100%; height:40px; text-align:center;}
+#num1 .dataNums .dataOne, #num3 .dataNums .dataOne,
+.intelligentLogistics .right .line3-left .num .dataNums .dataOne{
+  width:32px; height:40px; margin: 0 4px 0 0; text-align: center;}
+#num1 .dataNums .dataBoc .tt, #num3 .dataNums .dataBoc .tt,
+.intelligentLogistics .right .line3-left .num .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 32px; height: 40px}
+#num1 .dataNums .tt span, #num3 .dataNums .tt span,
+.intelligentLogistics .right .line3-left .num .dataNums .tt span{
+  display: block;width: 32px; height: 40px; font:bold 36px/40px "Impact";}
+#num1 .dataNums .dataOne, #num3 .dataNums .dataOne,
+.intelligentLogistics .right .line3-left .num .dataNums .dataOne{
+  background-color: #04345a;
+  border: 1px solid #00B7FF;color: #01d9d6;
+}
+#num2 .dataNums, #num4 .dataNums{
+  display: flex; width:100%; height:24px; text-align:center;}
+#num2 .dataNums .dataOne, #num4 .dataNums .dataOne{
+  width:16px; height:24px; margin: 0 2px 0 0; text-align: center;}
+#num2 .dataNums .dataBoc .tt, #num4 .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 16px; height: 24px}
+#num2 .dataNums .tt span, #num4 .dataNums .tt span{
+  display: block;width: 16px; height: 24px; font:bold 18px/24px "Impact";}
+#num2 .dataNums .dataOne .dataBoc, #num4 .dataNums .dataOne .dataBoc{
+  background-color: #04345a;color: #fff;
+}
+
+.intelligentLogistics .left .line2 .num .dataNums{
+  display: flex; width:100%; height:16px; text-align:center;}
+.intelligentLogistics .left .line2 .num .dataNums .dataOne{
+  width:12px; height:16px; margin: 0 0 0 2px; text-align: center;}
+.intelligentLogistics .left .line2 .num .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 12px; height: 16px}
+.intelligentLogistics .left .line2 .num .dataNums .tt span{
+  display: block;width: 12px; height: 16px; font: 14px/16px "Impact";}
+.intelligentLogistics .left .line2 .num .dataNums .dataOne .dataBoc{
+  background-color: #04345a;color: #fff;
+}
+
+.intelligentLogistics .left .line3 .num .dataNums{
+  display: flex; width:100%; height:36px; text-align:center;}
+.intelligentLogistics .left .line3 .num .dataNums .dataOne{
+  width:19px; height:36px; margin: 0; text-align: center;}
+.intelligentLogistics .left .line3 .num .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 19px; height: 36px}
+.intelligentLogistics .left .line3 .num .dataNums .tt span{
+  display: block;width: 19px; height: 36px; font: 36px/1 "Impact";}
+
+#resolution .main .main-title .num .dataNums{
+  display: flex; width:100%; height:36px; text-align:center;}
+#resolution .main .main-title .num .dataNums .dataOne{
+  width:19px; height:36px; margin: 0; text-align: center;}
+#resolution .main .main-title .num .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 19px; height: 36px}
+#resolution .main .main-title .num .dataNums .tt span{
+  display: block;width: 19px; height: 36px; font: 36px/1 "Impact";}
+
+#num4-1 .dataNums, #num5-4 .dataNums{
+  display: flex; width:100%; height:28px; text-align:center;}
+#num4-1 .dataNums .dataOne, #num5-4 .dataNums .dataOne{
+  width:14px; height:28px; margin: 0; text-align: center;}
+#num4-1 .dataNums .dataBoc .tt, #num5-4 .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 14px; height: 28px}
+#num4-1 .dataNums .tt span, #num5-4 .dataNums .tt span{
+  display: block;width: 14px; height: 28px; font: 28px/1 "Impact";}
+
+#num4-2 .dataNums{
+  display: flex; width:100%; height:20px; text-align:center;}
+#num4-2 .dataNums .dataOne{
+  width:10px; height:20px; margin: 0; text-align: center;}
+#num4-2 .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 10px; height: 20px}
+#num4-2 .dataNums .tt span{
+  display: block;width: 10px; height: 20px; font: 20px/1 "Impact";}
+
+#num5-3 .dataNums{
+  display: flex; width:100%; height:24px; text-align:center;}
+#num5-3 .dataNums .dataOne{
+  width:13px; height:24px; margin: 0; text-align: center;}
+#num5-3 .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 13px; height: 24px}
+#num5-3 .dataNums .tt span{
+  display: block;width: 13px; height: 24px; font: 24px/1 "Impact";}
+
+#main .right .time-inner  .dataNums{
+  display: flex; width:100%; height:36px; text-align:center;}
+#main .right .time-inner  .dataNums{
+  display: flex; width:100%; height:36px; text-align:center;}
+#main .right .time-inner  .dataNums .dataOne{
+  width:20px; height:36px; margin: 0; text-align: center;}
+#main .right .time-inner  .dataNums .dataBoc .tt{
+  position: absolute; top: 0;  left: 0; width: 20px; height: 36px}
+#main .right .time-inner  .dataNums .tt span{
+  display: block;width: 20px; height: 36px; font: 36px/1 "Impact";}

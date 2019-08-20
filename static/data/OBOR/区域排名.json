@@ -1,0 +1,15 @@
+{
+  "name":"区域排名TOP10",
+  "data": [
+    {"id":1,"name":"中国","value":"1237","percentage":"94","sort":"1"},
+    {"id":2,"name":"俄罗斯","value":"966","percentage":"76","sort":"2"},
+    {"id":3,"name":"伊朗","value":"763","percentage":"69","sort":"3"},
+    {"id":4,"name":"老挝","value":"654","percentage":"57","sort":"4"},
+    {"id":5,"name":"菲律宾","value":"601","percentage":"40","sort":"5"},
+    {"id":6,"name":"泰国","value":"529","percentage":"35","sort":"6"},
+    {"id":7,"name":"巴西","value":"321","percentage":"24","sort":"7"},
+    {"id":8,"name":"阿根廷","value":"278","percentage":"20","sort":"8"},
+    {"id":9,"name":"委内瑞拉","value":"198","percentage":"15","sort":"9"},
+    {"id":10,"name":"乌兹别克斯坦","value":"153","percentage":"10","sort":"10"}
+  ]
+}

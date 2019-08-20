@@ -1,0 +1,10 @@
+{"name":"应用案例",
+	"data":
+	[
+		{"id":1,"name":"徐工集团物联网","num":"","unit":"","sort":"1","url":"static/img/appRank/徐工集团.png"},
+		{"id":2,"name":"北京中城新能源","num":"","unit":"","sort":"2","url":"static/img/appRank/协力.png"},
+		{"id":3,"name":"中铁建智慧工地","num":"","unit":"","sort":"3","url":"static/img/appRank/中国铁建.png"},
+		{"id":4,"name":"泰隆减速机","num":"","unit":"","sort":"4","url":"static/img/appRank/泰隆.png"},
+		{"id":5,"name":"瑞图信息服务","num":"","unit":"","sort":"5","url":"static/img/appRank/瑞图.png"}
+	]
+}

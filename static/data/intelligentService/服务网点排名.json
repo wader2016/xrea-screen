@@ -1,0 +1,10 @@
+{"name":"服务网点上月排名",
+	"data":
+	[
+		{"id":1,"name":"山东区域","value":"470","percentage":"78","sort":"1","unit":""},
+		{"id":2,"name":"广东区域","value":"410","percentage":"60","sort":"2","unit":""},
+		{"id":3,"name":"湖北区域","value":"380","percentage":"55","sort":"3","unit":""},
+		{"id":4,"name":"北京区域","value":"370","percentage":"44","sort":"3","unit":""},
+		{"id":5,"name":"陕西区域","value":"280","percentage":"31","sort":"4","unit":""}
+	]
+}

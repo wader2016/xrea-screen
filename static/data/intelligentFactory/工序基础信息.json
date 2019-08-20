@@ -1,0 +1,24 @@
+{"name":"订单执行情况",
+	"data":
+	[
+		{"id":1,"name":"座圈固件拼点","node":"工序一","curWorkNum":"3","sort":"1","status":"1"},
+		{"id":2,"name":"座圈固件焊接","node":"工序二","curWorkNum":"5","sort":"2","status":"1"},
+		{"id":3,"name":"地板组合拼点","node":"工序三","curWorkNum":"2","sort":"3","status":"1"},
+		{"id":4,"name":"地板组合焊接","node":"工序四","curWorkNum":"3","sort":"4","status":"1"},
+		{"id":5,"name":"转台前段一遍拼点","node":"工序五","curWorkNum":"3","sort":"5","status":"1"},
+		{"id":6,"name":"转台前段一遍焊接","node":"工序六","curWorkNum":"12","sort":"6","status":"0"},
+		{"id":7,"name":"转台前段一遍补焊","node":"工序七","curWorkNum":"7","sort":"7","status":"0"},
+		{"id":8,"name":"转台前段二遍拼点","node":"工序八","curWorkNum":"5","sort":"8","status":"9"},
+		{"id":9,"name":"转台前段二遍焊接","node":"工序九","curWorkNum":"4","sort":"9","status":"9"},
+		{"id":10,"name":"转台前段二遍补焊","node":"工序十","curWorkNum":"3","sort":"10","status":"9"},
+		{"id":11,"name":"转台前段检测调形","node":"工序十一","curWorkNum":"2","sort":"11","status":"9"},
+		{"id":12,"name":"转台前段对镗加工","node":"工序十二","curWorkNum":"4","sort":"12","status":"9"},
+		{"id":13,"name":"转台前段钻铣加工","node":"工序十三","curWorkNum":"3","sort":"13","status":"9"},
+		{"id":14,"name":"转台后尾拼点","node":"工序十四","curWorkNum":"4","sort":"14","status":"9"},
+		{"id":15,"name":"转台后尾焊接","node":"工序十五","curWorkNum":"2","sort":"15","status":"9"},
+		{"id":16,"name":"转台后尾检测调形","node":"工序十六","curWorkNum":"3","sort":"16","status":"9"},
+		{"id":17,"name":"转台后尾机加工","node":"工序十七","curWorkNum":"4","sort":"17","status":"9"},
+		{"id":18,"name":"转台后尾主题拼点","node":"工序十八","curWorkNum":"3","sort":"18","status":"9"},
+		{"id":19,"name":"转台后尾主题焊接","node":"工序十九","curWorkNum":"2","sort":"19","status":"9"}
+	]
+}

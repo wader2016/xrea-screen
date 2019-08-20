@@ -1,0 +1,324 @@
+[
+  {
+    "type": "dom",
+    "id": 1,
+    "latlngs": {
+      "lng": 105.72497999,
+      "lat": 34.5808849
+    },
+    "content": {
+      "title": "中国",
+      "content": "643162",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 70,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 2,
+    "latlngs": {
+      "lng": -51.92527999,
+      "lat": -14.235004
+    },
+    "content": {
+      "title": "巴西",
+      "content": "670",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 3,
+    "latlngs": {
+      "lng": 66.9236839,
+      "lat": 48.019573
+    },
+    "content": {
+      "title": "哈萨克斯坦",
+      "content": "966",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 4,
+    "latlngs": {
+      "lng": 105.31875600,
+      "lat": 61.5240
+    },
+    "content": {
+      "title": "俄罗斯",
+      "content": "647",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 5,
+    "latlngs": {
+      "lng": 121.774016,
+      "lat": 12.879721
+    },
+    "content": {
+      "title": "菲律宾",
+      "content": "485",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 6,
+    "latlngs": {
+      "lng": -66.589730,
+      "lat": 6.42375
+    },
+    "content": {
+      "title": "委内瑞拉",
+      "content": "481",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 7,
+    "latlngs": {
+      "lng": 102.1845062,
+      "lat": 4.33099802
+    },
+    "content": {
+      "title": "马来西亚",
+      "content": "364",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 8,
+    "latlngs": {
+      "lng": 1.9837226,
+      "lat": 28.159876
+    },
+    "content": {
+      "title": "阿尔及利亚",
+      "content": "364",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 9,
+    "latlngs": {
+      "lng": 101.1628290,
+      "lat": 15.9598363
+    },
+    "content": {
+      "title": "泰国",
+      "content": "344",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 10,
+    "latlngs": {
+      "lng": 64.843440710,
+      "lat": 41.49280206
+    },
+    "content": {
+      "title": "乌兹别克斯坦",
+      "content": "344",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 11,
+    "latlngs": {
+      "lng": -63.303561,
+      "lat": -38.3299657
+    },
+    "content": {
+      "title": "阿根廷",
+      "content": "326",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 12,
+    "latlngs": {
+      "lng": 100.63070,
+      "lat": 19.501627
+    },
+    "content": {
+      "title": "老挝",
+      "content": "712",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 13,
+    "latlngs": {
+      "lng": 45.079162,
+      "lat": 23.885942
+    },
+    "content": {
+      "title": "沙特阿拉伯",
+      "content": "495",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  },
+  {
+    "type": "dom",
+    "id": 14,
+    "latlngs": {
+      "lng": 59.001946,
+      "lat": 32.161316
+    },
+    "content": {
+      "title": "伊朗",
+      "content": "193",
+      "width": 300,
+      "height": 128,
+      "paddingLeft": 100,
+      "paddingRight": -80,
+      "paddingTop": 55,
+      "titleFontSize": 45,
+      "titleColor": "#fbf320",
+      "contentColor": "#fff",
+      "contentFontSize": 50,
+      "fontFamily": "Microsoft Yahei, serif",
+      "bgImgUrl": "https://datav.oss-cn-hangzhou.aliyuncs.com/uploads/images/b6bcec9665acae2cf34935dfd3c92b45.png"
+    }
+  }
+]

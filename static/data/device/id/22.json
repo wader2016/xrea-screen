@@ -1,0 +1,370 @@
+{
+  "id": 22,
+  "name": "智能果蔬分拣机",
+  "health": 90.5,
+  "image": "/static/img/device-big-img/选籽机.png",
+  "pos": {
+    "LNG": "113.136066",
+    "LAT": "40.79375"
+  },
+  "info1": {
+    "name": "工作曲线图",
+    "data": [
+      {"id":1,"workDateTime":"2019/01/10","value":"1.00"},
+      {"id":2,"workDateTime":"2019/01/11","value":"1.05"},
+      {"id":3,"workDateTime":"2019/01/12","value":"1.10"},
+      {"id":4,"workDateTime":"2019/01/13","value":"1.15"},
+      {"id":5,"workDateTime":"2019/01/14","value":"1.20"},
+      {"id":6,"workDateTime":"2019/01/15","value":"1.25"}
+    ]
+  },
+  "info2": {
+    "name":"报警记录",
+    "data": [
+      {
+        "CONTENT": "控制柜急停引起报警",
+        "STARTTIME": "2018-01-04 00:44:04",
+        "ALARMNAME": "急停报警",
+        "PRODUCTTYPEID": "320",
+        "NAME": "起重机"
+      },
+      {
+        "CONTENT": "1号机1#通道产量过低",
+        "STARTTIME": "2018-01-08 05:49:11",
+        "ALARMNAME": "产量报警",
+        "PRODUCTTYPEID": "320",
+        "NAME": "起重机"
+      },
+      {
+        "CONTENT": "4号机空运转过长",
+        "STARTTIME": "2017-12-16 08:48:03",
+        "ALARMNAME": "空运转报警",
+        "PRODUCTTYPEID": "320",
+        "NAME": "起重机"
+      },
+      {
+        "CONTENT": "3号机2#通道产量过低",
+        "STARTTIME": "2017-12-23 16:42:11",
+        "ALARMNAME": "产量报警",
+        "PRODUCTTYPEID": "320",
+        "NAME": "起重机"
+      },
+      {
+        "CONTENT": "7号机5#通道产量过低",
+        "STARTTIME": "2018-01-01 21:56:11",
+        "ALARMNAME": "产量报警",
+        "PRODUCTTYPEID": "320",
+        "NAME": "起重机"
+      }
+    ]
+  },
+  "info3": {"name":"预警曲线图",
+    "data": [
+      {"id":1,"workDateTime":"2019/01/10","value":"0.34"},
+      {"id":2,"workDateTime":"2019/01/11","value":"0.30"},
+      {"id":3,"workDateTime":"2019/01/12","value":"0.37"},
+      {"id":4,"workDateTime":"2019/01/13","value":"0.33"},
+      {"id":5,"workDateTime":"2019/01/14","value":"0.20"}
+    ]
+  },
+  "info4": {
+    "name":"关键指标",
+    "data":
+    [
+      {"id":2,"name":"有效仔个数", "image": "gauge","maxNum": "30143","num":"194475","unit":"个","sort":"2"},
+      {"id":2,"name":"回流子占比", "image": "gauge","maxNum": "100","num":"13.4","unit":"%","sort":"2"},
+      {"id":3,"name":"当前效率", "image": "gauge","maxNum":"10","num":"7.73","unit":"袋/小时","sort":"3"},
+      {"id":1,"name":"运行状态","maxNum": "","num":"运行","unit":"","sort":"1"},
+      {"id":1,"name":"运行时间","maxNum": "","num":"616","unit":"分钟","sort":"1"},
+      {"id":2,"name":"通道1","maxNum": "","num":"30373","unit":"个","sort":"2"},
+      {"id":2,"name":"通道2","maxNum": "","num":"6288","unit":"个","sort":"2"},
+      {"id":2,"name":"通道3","maxNum": "","num":"7551","unit":"个","sort":"2"},
+      {"id":2,"name":"通道4","maxNum": "","num":"21061","unit":"个","sort":"2"},
+      {"id":2,"name":"通道5","maxNum": "","num":"7682","unit":"个","sort":"2"},
+      {"id":2,"name":"通道6","maxNum": "","num":"121520","unit":"个","sort":"2"},
+      {"id":2,"name":"通道7","maxNum": "","num":"32699","unit":"个","sort":"2"},
+      {"id":2,"name":"回流仔个数","maxNum": "","num":"30143","unit":"个","sort":"2"}
+    ]
+  },
+  "calendar": [
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-01 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "5971",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-02 01:03:10"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-02 00:00:00",
+      "WORKTIME": "13",
+      "TOTALWORKTIME": "5998",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-03 01:03:07"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-03 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6111",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-04 01:02:50"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-04 00:00:00",
+      "WORKTIME": "18",
+      "TOTALWORKTIME": "6155",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-05 01:03:05"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-05 00:00:00",
+      "WORKTIME": "9",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-06 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-06 00:00:00",
+      "WORKTIME": "18",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-07 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-07 00:00:00",
+      "WORKTIME": "16",
+      "TOTALWORKTIME": "6335",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-08 01:03:09"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-08 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6381",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-09 01:03:20"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-09 00:00:00",
+      "WORKTIME": "10",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-10 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-10 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-11 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-11 00:00:00",
+      "WORKTIME": "8",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-12 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-12 00:00:00",
+      "WORKTIME": "0",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-13 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-13 00:00:00",
+      "WORKTIME": "15",
+      "TOTALWORKTIME": "6673",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-14 01:02:56"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-14 00:00:00",
+      "WORKTIME": "14",
+      "TOTALWORKTIME": "6243",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-16 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-15 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-16 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-16 00:00:00",
+      "WORKTIME": "18",
+      "TOTALWORKTIME": "6718",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-17 01:03:10"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-17 00:00:00",
+      "WORKTIME": "15",
+      "TOTALWORKTIME": "6746",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-18 01:02:56"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-18 00:00:00",
+      "WORKTIME": "10",
+      "TOTALWORKTIME": "6811",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-19 01:03:03"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-19 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6227",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-20 01:03:02"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-20 00:00:00",
+      "WORKTIME": "19",
+      "TOTALWORKTIME": "6811",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-21 01:03:03"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-21 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6811",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-22 01:03:03"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-22 00:00:00",
+      "WORKTIME": "16",
+      "TOTALWORKTIME": "6811",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-23 01:03:03"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-23 00:00:00",
+      "WORKTIME": "16",
+      "TOTALWORKTIME": "6811",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-24 01:03:03"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-24 00:00:00",
+      "WORKTIME": "18",
+      "TOTALWORKTIME": "6896",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-25 01:03:24"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-25 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "6972",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-26 01:02:59"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-26 00:00:00",
+      "WORKTIME": "15",
+      "TOTALWORKTIME": "6921",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-26 01:02:59"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-27 00:00:00",
+      "WORKTIME": "15",
+      "TOTALWORKTIME": "7091",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-28 01:03:22"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-28 00:00:00",
+      "WORKTIME": "16",
+      "TOTALWORKTIME": "7154",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-29 01:02:55"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-29 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "7154",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-30 01:02:55"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-30 00:00:00",
+      "WORKTIME": "12",
+      "TOTALWORKTIME": "7154",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-08-31 01:02:55"
+    },
+    {
+      "ID": "22",
+      "VEHICLEID": "133478",
+      "DATETIME": "2018-08-31 00:00:00",
+      "WORKTIME": "17",
+      "TOTALWORKTIME": "7154",
+      "ADMINDIVISIONCODE": "",
+      "CREATETIME": "2018-09-01 01:02:55"
+    }
+  ]
+}

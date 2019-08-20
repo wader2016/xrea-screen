@@ -1,0 +1,65 @@
+{
+  "name": "设备画像",
+  "data": {
+    "description": "设备画像是一款基于汉云工业互联网平台的SaaS工业APP，可以实现设备快速上云。产品提供轻量化应用模块，可有效实现设备远程监控，设备故障诊断。提供服务过程智能工单管理、云端组态建模、报表分析应用。",
+    "image": ["static/img/appRank/设备画像1.png","static/img/appRank/设备画像2.png"],
+    "value": [
+      {
+        "name":"提高制造生产环节的安全性以及稳定性",
+        "description":"告警消息、事件信息以邮件、短信、APP等方式实时主动推送，快速响应、及时处理，减少故障造成的损失。将第三方技术专家接入到平台，对监测数据多维度分析，提前评估风险，降低设备故障的风险。"
+      },
+      {
+        "name":"降低运营成本",
+        "description":"实时记录设备的运行数据、生产数据，替代工人抄录、查岗等，节约人力开支。服务商和生产厂家可以同时管理全球自有设备，故障诊断、功能更新都可在云端实现，极大减少现场工程师的出差费用。"
+      },
+      {
+        "name":"实现全面的数据共享",
+        "description":"监控每个生产环节的实时数据，实现 ERP（生产管理、仓储、物流）和其他系统的数据共享，便于实施更大范围的管理调度。"
+      }
+    ],
+    "mainFunction": [
+      {
+        "icon":"icon-shishijiankong",
+        "name":"设备监控"
+      },
+      {
+        "icon":"icon-yunduanzutai",
+        "name":"云端组态"
+      },
+      {
+        "icon":"icon-yunduanzhenduan",
+        "name":"云端诊断"
+      },
+      {
+        "icon":"icon-yunyingfenxi",
+        "name":"报警分析"
+      },
+      {
+        "icon":"icon-zhuanjiaku",
+        "name":"专家库"
+      }
+    ],
+    "client": [
+      {
+        "image":"static/img/appRank/金陵体育.png",
+        "name":"金陵体育",
+        "url":""
+      },
+      {
+        "image":"static/img/appRank/瑞图.png",
+        "name":"瑞图",
+        "url":"/screen/application/5"
+      },
+      {
+        "image":"static/img/appRank/海进机械.png",
+        "name":"海进机械",
+        "url":""
+      },
+      {
+        "image":"static/img/appRank/泰隆.png",
+        "name":"泰隆减速机",
+        "url":"/screen/application/4"
+      }
+    ]
+  }
+}

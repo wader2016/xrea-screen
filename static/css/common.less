@@ -1,0 +1,43 @@
+div,header{
+  box-sizing: border-box;
+}
+//让页面100%显示
+html,body,#app,.screen{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+//去除百度地图的logo
+.BMap_cpyCtrl {
+  display: none;
+}
+
+.anchorBL {
+  display: none;
+}
+//去除浮动
+.clearfix{
+  zoom: 1;
+}
+.clearfix:after{
+  content: '';
+  display: block;
+  clear: both;
+}
+//滚动条样式
+.scrollbar::-webkit-scrollbar{
+  width: 8px;
+  height: 8px;
+}
+.scrollbar::-webkit-scrollbar-thumb{
+  border-radius: 8px;
+  background-color: #54cefe;
+}
+.scrollbar::-webkit-scrollbar-track{
+  border-radius: 8px;
+  background-color: rgba(84,206,254,.3);
+}
+
+button{
+  cursor: pointer;
+}

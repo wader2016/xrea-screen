@@ -1,0 +1,11 @@
+{"name":"工业APP",
+	"data":
+	[
+		{"id":1,"name":"智能运维","sort":"1","icon":"icon-zhinengyunwei"},
+		{"id":2,"name":"设备画像","sort":"2","icon":"icon-shebeihuaxiang"},
+		{"id":3,"name":"云MES","sort":"3","icon":"icon-yunMES"},
+		{"id":4,"name":"云备件","sort":"4","icon":"icon-yunbeijian"},
+		{"id":5,"name":"能耗管理","sort":"5","icon":"icon-nenghaoguanli1"}
+			
+	]
+}

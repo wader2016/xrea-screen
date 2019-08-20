@@ -1,0 +1,260 @@
+[
+  {
+    "point": 1,
+    "data": [
+      {
+        "id": "1",
+        "name": "二级级供应商",
+        "icon": "static/img/resolution/supplier02.png",
+        "content": [
+          {
+            "name": "企业信息",
+            "val": "徐州重型机械有限公司"
+          },
+          {
+            "name": "所属行业",
+            "val": "制造业"
+          },
+          {
+            "name": "信用代码",
+            "val": "91320300136442270G"
+          },
+          {
+            "name": "地址",
+            "val": "江苏省徐州市铜山路165号"
+          },
+          {
+            "name": "服务电话",
+            "val": "400-001-5678"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "一级供应商",
+        "icon": "static/img/resolution/supplier01.png",
+        "content": [
+          {
+            "name": "产品识别码",
+            "val": "D915A025788"
+          },
+          {
+            "name": "部件名称/品名",
+            "val": "SC11CB220G2B1+CB0264 型柴油机"
+          },
+          {
+            "name": "机号/VIN码",
+            "val": "D915A025788"
+          },
+          {
+            "name": "批次号",
+            "val": "000008038516"
+          },
+          {
+            "name": "生产商",
+            "val": "上海柴油机股份有限公司"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "入场配送",
+        "icon": "static/img/resolution/delivery.png",
+        "content": [
+          {
+            "name": "产品识别码",
+            "val": "CH001890"
+          },
+          {
+            "name": "部件名称/品名",
+            "val": "SO-K8L-J7 液压双向锁"
+          },
+          {
+            "name": "批次号",
+            "val": "CH000036"
+          },
+          {
+            "name": "生产商",
+            "val": "浙江圣邦科技有限公司"
+          },
+          {
+            "name": "检验结果",
+            "val": "合格"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "point": 2,
+    "data": [
+      {
+        "id": "1",
+        "name": "二级供应商",
+        "icon": "static/img/resolution/supplier02.png",
+        "content": [
+          {
+            "name": "企业信息",
+            "val": "徐州重型机械有限公司"
+          },
+          {
+            "name": "所属行业",
+            "val": "制造业"
+          },
+          {
+            "name": "信用代码",
+            "val": "91320300136442270G"
+          },
+          {
+            "name": "地址",
+            "val": "江苏省徐州市铜山路165号"
+          },
+          {
+            "name": "服务电话",
+            "val": "400-001-5678"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "一级供应商",
+        "icon": "icon-static/img/resolution/supplier01.png",
+        "content": [
+          {
+            "name": "产品识别码",
+            "val": "201510260"
+          },
+          {
+            "name": "部件名称/品名",
+            "val": "KT-LB(或KT-1) 空调器总成"
+          },
+          {
+            "name": "生产商",
+            "val": "江苏创导空调有限公司"
+          },
+          {
+            "name": "产地",
+            "val": "江苏徐州"
+          },
+          {
+            "name": "检验结果",
+            "val": "合格"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "入场配送",
+        "icon": "static/img/resolution/delivery.png",
+        "content": [
+          {
+            "name": "产品识别码",
+            "val": "803000143"
+          },
+          {
+            "name": "部件名称/品名",
+            "val": "HBQ90.53A.12 液压油缸"
+          },
+          {
+            "name": "批次号",
+            "val": "X201512010111"
+          },
+          {
+            "name": "生产商",
+            "val": "徐州徐工液压件有限公司"
+          },
+          {
+            "name": "检验结果",
+            "val": "合格"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "point": 3,
+    "data": [
+      {
+        "id": "1",
+        "name": "二级供应商",
+        "icon": "static/img/resolution/supplier02.png",
+        "content": [
+          {
+            "name": "企业信息",
+            "val": "徐州重型机械有限公司"
+          },
+          {
+            "name": "所属行业",
+            "val": "制造业"
+          },
+          {
+            "name": "信用代码",
+            "val": "91320300136442270G"
+          },
+          {
+            "name": "地址",
+            "val": "江苏省徐州市铜山路165号"
+          },
+          {
+            "name": "服务电话",
+            "val": "400-001-5678"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "一级供应商",
+        "icon": "static/img/resolution/icon-supplier01.png",
+        "content": [
+          {
+            "name": "产品识别码",
+            "val": "CC000017"
+          },
+          {
+            "name": "部件名称/品名",
+            "val": "XH10Z-AS 回转缓冲阀"
+          },
+          {
+            "name": "批次号",
+            "val": "CC000017"
+          },
+          {
+            "name": "生产商",
+            "val": "浙江圣邦科技有限公司"
+          },
+          {
+            "name": "产地",
+            "val": "浙江温州"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "入场配送",
+        "icon": "static/img/resolution/icon-delivery.png",
+        "content": [
+          {
+            "name": "产品识别码",
+            "val": "CD000004"
+          },
+          {
+            "name": "部件名称/品名",
+            "val": "HC-RCV-01S 脚踏阀"
+          },
+          {
+            "name": "批次号",
+            "val": "CD000004"
+          },
+          {
+            "name": "生产商",
+            "val": "浙江圣邦科技有限公司"
+          },
+          {
+            "name": "产地",
+            "val": "浙江温州"
+          }
+        ]
+      }
+    ]
+  }
+]

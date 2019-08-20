@@ -1,0 +1,11 @@
+{"name":"主页面top信息",
+	"data":
+	[
+		{"id":1,"name":"接入设备","num":"760109","unit":"台","sort":"1","class":"icon-shebei"},
+		{"id":2,"name":"管理资产价值约","num":"6000","unit":"亿元","sort":"2","class":"icon-zichan"},
+    {"id":3,"name":"接入国家","num":"20","unit":"个","sort":"5","class":"icon-guojia"},
+		{"id":4,"name":"服务企业","num":"1000","unit":"家","sort":"3","class":"icon-qiye"},
+		{"id":5,"name":"平台用户数约","num":"64","unit":"万","sort":"4","class":"icon-shengtaihuoban"}
+
+	]
+}

@@ -1,0 +1,19 @@
+{"name":"应用场景",
+  "data":
+  [
+    {"id":1,"name":"状态监测","icon":"icon-shishijiankong","percentage":"26","sort":"1"},
+    {"id":2,"name":"生产制造优化","icon":"icon-shengchanguanli","percentage":"12","sort":"4"},
+    {"id":3,"name":"远程运维","icon":"icon-zhinengyunwei","percentage":"10","sort":"2"},
+    {"id":4,"name":"预测性维护","icon":"icon-yuce","percentage":"6","sort":"3"},
+    {"id":5,"name":"资源调度优化","icon":"icon-ziyuan","percentage":"15","sort":"5"},
+    {"id":6,"name":"能耗优化","icon":"icon-nenghaoguanli1","percentage":"18","sort":"6"},
+    {"id":7,"name":"质量优化","icon":"icon-zhiliangguanli","percentage":"10","sort":"7"},
+    {"id":8,"name":"产品服务化转型","icon":"icon-chanpin","percentage":"10","sort":"8"},
+    {"id":9,"name":"故障诊断","icon":"icon-zhenduan","percentage":"10","sort":"9"},
+    {"id":10,"name":"协同制造","icon":"icon-weixiuzaizhizao","percentage":"10","sort":"10"},
+    {"id":11,"name":"制造能力交易","icon":"icon-zhizaonenglijiaoyi","percentage":"10","sort":"10"},
+    {"id":12,"name":"供应链管理优化","icon":"icon-gongyinglian","percentage":"10","sort":"10"},
+    {"id":13,"name":"全生命周期管理","icon":"icon-quanshengmingzhouqi","percentage":"10","sort":"10"},
+    {"id":14,"name":"大数据精准营销","icon":"icon-dashujujingqueyingxiao","percentage":"10","sort":"10"}
+  ]
+}

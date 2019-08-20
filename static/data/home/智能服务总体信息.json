@@ -1,0 +1,10 @@
+{"name":"智能服务总体信息",
+	"data":
+	[
+		{"id":1,"name":"服务网点","value":"908","sort":"1","unit":""},
+		{"id":2,"name":"备件库","value":"379","sort":"2","unit":""},
+		{"id":3,"name":"服务人员","value":"908","sort":"3","unit":""},
+		{"id":4,"name":"服务车","value":"908","sort":"4","unit":""},
+		{"id":5,"name":"销售人员","value":"908","sort":"5","unit":""}	
+	]
+}

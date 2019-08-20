@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>汉云工业互联网平台</title>
+    <script src="//api.map.baidu.com/api?v=2.0&ak=cOwhmnD7lYUX6mgFolvte1unyARGEoVe"></script>
+    <script src="https://webapi.amap.com/maps?v=1.4.12&key=5a40097a73efd8d9327401b347f2e75c"></script>
+    <style>
+      #loading{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        z-index: 100;
+      }
+      @keyframes ball-beat {
+        50% {
+          opacity: 0.2;
+          transform: scale(0.75);
+        }
+        100% {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+      .ball-beat>div {
+        background-color: #279fcf;
+        width: 10px;
+        height: 10px;
+        border-radius: 100% !important;
+        margin: 2px;
+        animation-fill-mode: both;
+        display: inline-block;
+        animation: ball-beat 0.7s 0s infinite linear;
+      }
+      .ball-beat>div:nth-child(2n-1){
+        animation-delay: 0.35s !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="loading">
+      <div class="loader-inner ball-beat">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

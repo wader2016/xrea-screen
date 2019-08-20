@@ -1,0 +1,83 @@
+[
+  {
+    "id": "4",
+    "name": "生产制造",
+    "icon": "static/img/resolution/manufacture.png",
+    "content": [
+      {
+        "name": "企业信息",
+        "val": "徐工集团"
+      },
+      {
+        "name": "产品规格",
+        "val": "徐工集团"
+      },
+      {
+        "name": "型号规格",
+        "val": "徐工集团"
+      },
+      {
+        "name": "产品参数",
+        "val": "徐工集团"
+      },
+      {
+        "name": "生产批次",
+        "val": "徐工集团"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "物流运输",
+    "icon": "static/img/resolution/transport.png",
+    "content": [
+      {
+        "name": "企业信息",
+        "val": "徐工集团"
+      },
+      {
+        "name": "产品规格",
+        "val": "徐工集团"
+      },
+      {
+        "name": "型号规格",
+        "val": "徐工集团"
+      },
+      {
+        "name": "产品参数",
+        "val": "徐工集团"
+      },
+      {
+        "name": "生产批次",
+        "val": "徐工集团"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "经销商/客户",
+    "icon": "static/img/resolution/agent.png",
+    "content": [
+      {
+        "name": "企业信息",
+        "val": "徐工集团"
+      },
+      {
+        "name": "产品规格",
+        "val": "徐工集团"
+      },
+      {
+        "name": "型号规格",
+        "val": "徐工集团"
+      },
+      {
+        "name": "产品参数",
+        "val": "徐工集团"
+      },
+      {
+        "name": "生产批次",
+        "val": "徐工集团"
+      }
+    ]
+  }
+]

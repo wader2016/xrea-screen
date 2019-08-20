@@ -1,0 +1,30 @@
+{"name":"整车VIN码",
+	"data":
+	[
+		{
+			"name":"11018933233 ",
+      "startDate":"2019-01-11",
+      "endDate":"2019-02-04",
+			"plan":{"currentNode":"A1","startDate":"2019-01-13","endDate":"2019-01-23","status":"1"},
+			"progress":{"currentNode":"A1","startDate":"2019-01-13","endDate":"2019-01-20","status":"1"}
+		},{
+			"name":"1018931789",
+      "startDate":"2019-01-17",
+      "endDate":"2019-01-29",
+			"plan":{"currentNode":"A4","startDate":"2019-01-17","endDate":"2019-01-25","status":"1"},
+			"progress":{"currentNode":"A4","startDate":"2019-01-20","endDate":"2019-01-27","status":"0"}
+		},{
+			"name":"1018933486",
+      "startDate":"2019-01-12",
+      "endDate":"2019-01-27",
+			"plan":{"currentNode":"B1","startDate":"2019-01-16","endDate":"2019-01-20","status":"1"},
+			"progress":{"currentNode":"B1","startDate":"2019-01-18","endDate":"2019-01-20","status":"1"}
+		},{
+			"name":"1018932167",
+      "startDate":"2019-01-20",
+      "endDate":"2019-02-06",
+			"plan":{"currentNode":"B2","startDate":"2019-01-25","endDate":"2019-01-30","status":"1"},
+			"progress":{"currentNode":"B2","startDate":"2019-01-27","endDate":"2019-01-30","status":"1"}
+		}
+	]
+}

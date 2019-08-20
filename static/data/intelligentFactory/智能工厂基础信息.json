@@ -1,0 +1,21 @@
+{"name":"智能工厂的基础信息",
+	"data":
+	[
+		{"id":1,"name":"下料分厂","value":"A1","sort":"1","unit":"","progress":"25%","status":"1","class":"icon-xialiaofenchang",
+			"APQInfo":[{"name":"A","process":"25%","status":"1"},{"name":"P","process":"30%","status":"1"},{"name":"Q","process":"25%","status":"1"}]},
+		{"id":2,"name":"零部件分厂","value":"A2","sort":"2","unit":"","progress":"30%","status":"1","class":"icon-lingbujianfenchang",
+			"APQInfo":[{"name":"A","process":"25%","status":"1"},{"name":"P","process":"35%","status":"1"},{"name":"Q","process":"30%","status":"1"}]},
+		{"id":3,"name":"电气分厂","value":"A3","sort":"3","unit":"","progress":"15%","status":"1","class":"icon-dianqifenchang",
+			"APQInfo":[{"name":"A","process":"35%","status":"1"},{"name":"P","process":"45%","status":"1"},{"name":"Q","process":"15%","status":"1"}]},
+		{"id":4,"name":"结构分厂","value":"A4","sort":"4","unit":"","progress":"0%","status":"0","class":"icon-jiegoufenchang",
+			"APQInfo":[{"name":"A","process":"25%","status":"0"},{"name":"P","process":"15%","status":"1"},{"name":"Q","process":"0%","status":"1"}]},
+		{"id":5,"name":"底盘分厂","value":"B1","sort":"5","unit":"","progress":"20%","status":"1","class":"icon-dipanfenchang",
+			"APQInfo":[{"name":"A","process":"25%","status":"1"},{"name":"P","process":"15%","status":"1"},{"name":"Q","process":"20%","status":"1"}]},
+		{"id":6,"name":"总装分厂","value":"B2","sort":"6","unit":"","progress":"25%","status":"1","class":"icon-zongzhuangfenchang",
+			"APQInfo":[{"name":"A","process":"25%","status":"1"},{"name":"P","process":"15%","status":"1"},{"name":"Q","process":"25%","status":"0"}]},
+		{"id":7,"name":"维修再制造","value":"B3","sort":"7","unit":"","progress":"55%","status":"1","class":"icon-weixiuzaizhizao",
+			"APQInfo":[{"name":"A","process":"45%","status":"1"},{"name":"P","process":"70%","status":"1"},{"name":"Q","process":"55%","status":"1"}]},
+		{"id":8,"name":"调试分厂","value":"B4","sort":"8","unit":"","progress":"70%","status":"1","class":"icon-tiaoshifenchang",
+			"APQInfo":[{"name":"A","process":"60%","status":"1"},{"name":"P","process":"75%","status":"1"},{"name":"Q","process":"70%","status":"1"}]}
+	]
+}

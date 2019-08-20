@@ -1,0 +1,10 @@
+{"name":"智能服务订单总信息",
+	"data":
+	[
+		{"id":1,"name":"服务订单总数","num":"10245","sort":"1","unit":"个","class":"icon-fuwudingdanshu"},
+		{"id":2,"name":"备件到位及时率","num":"100","sort":"2","unit":"%","class":"icon-beijiandaoweijishishuai"},
+		{"id":3,"name":"15分钟响应率","num":"99.50","sort":"3","unit":"%","class":"icon-fenzhongxiangyingshuai"},
+		{"id":4,"name":"24小时完工率","num":"89.60","sort":"4","unit":"%","class":"icon-xiaoshiwangongshuai"},
+		{"id":5,"name":"客户满意度","num":"99.50","sort":"5","unit":"%","class":"icon-kehumanyidu"}
+	]
+}

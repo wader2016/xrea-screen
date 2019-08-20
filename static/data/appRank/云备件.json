@@ -1,0 +1,64 @@
+{
+  "name": "云备件",
+  "data": {
+    "description": "云备件 APP 是一款企业通用的后市场供应链管理的 SaaS 应用，专注于备件资源整合、渠道管理、信息追踪，为生产企业、经销商以及门店提供备件采购、仓储、物流、销售等业务一体化解决方案，内容完善， 操作简单。",
+    "image": ["static/img/appRank/云备件1.png","static/img/appRank/云备件2.png"],
+    "value": [
+      {
+        "name":"开户即用",
+        "description":"产品采用多租户运营模式，无需安装，上网开户即可使用"
+      },
+      {
+        "name":"信息追溯",
+        "description":"建立售后整机和零配件全生命周期信息追溯管理"
+      },
+      {
+        "name":"仓库精细化管理",
+        "description":"优化仓库管理模式，建立标准化的仓库作业流程"
+      },
+      {
+        "name":"多平台对接",
+        "description":"开放的 API 接口，实现跨平台的数据对接服务"
+      }
+    ],
+    "mainFunction": [
+      {
+        "icon":"icon-jihuaguanli",
+        "name":"计划管理"
+      },
+      {
+        "icon":"icon-dingdanguanli",
+        "name":"订单管理"
+      },
+      {
+        "icon":"icon-caigouguanli",
+        "name":"采购管理"
+      },
+      {
+        "icon":"icon-kucunguanli",
+        "name":"库存管理"
+      },
+      {
+        "icon":"icon-tiaomaguanli",
+        "name":"条码管理"
+      },
+      {
+        "icon":"icon-wuliupeisong",
+        "name":"物流管理"
+      }
+    ],
+    "client": [
+      {
+        "image":"static/img/appRank/徐工集团.png",
+        "name":"徐工集团",
+        "url":"/screen/application/1"
+      },
+      {
+        "image":"static/img/appRank/江铜集团.png",
+        "name":"江铜集团",
+        "url":""
+      }
+    ]
+
+  }
+}

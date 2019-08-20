@@ -1,0 +1,62 @@
+{
+  "name": "中铁建智慧工地",
+  "data": {
+    "info1": {
+      "name": "客户简介",
+      "description": "中国铁建是具有60多年历史的特大型建筑企业，在业内拥有完整的资质体系。其中，拥有工程施工总承包特级资质69项。中国铁建承揽并建成了大量具有标志性和代表性的铁路、公路、城市轨道交通及其他工程项目，并获得多项优质工程奖项。",
+      "image": "static/img/application/中铁建1.jpg"
+    },
+    "info2": {
+      "name": "解决方案",
+      "data": [
+        {
+          "name": "",
+          "class":"icon-zichan",
+          "description":"交易服务系统"
+        },
+        {
+          "name": "",
+          "class":"icon-shebeiguanli",
+          "description":"设备管理系统"
+        },
+        {
+          "name": "",
+          "class":"icon-xiaoshourenyuan",
+          "description":"经营租赁系统"
+        }
+      ]
+    },
+    "info3": {
+      "name":"客户痛点",
+      "data": [
+        {
+          "name": "",
+          "description":"设备维护保养与项目的需求不对称"
+        },
+        {
+          "name": "",
+          "description":"设备备件储备与实际需求不匹配"
+        },
+        {
+          "name": "",
+          "description":"无法实现对社会上设备的再次使用"
+        }
+      ]
+    },
+    "info4": {
+      "name": "项目成果",
+      "data": [
+        {
+          "name": "设备综合复用率",
+          "description":"20%",
+          "flag":"提升"
+        },
+        {
+          "name": "社会交易占比",
+          "description":"7.7%",
+          "flag":"提升"
+        }
+      ]
+    }
+  }
+}

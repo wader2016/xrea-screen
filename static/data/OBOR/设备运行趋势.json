@@ -1,0 +1,20 @@
+{
+  "name":"设备运行趋势",
+  "data": [
+    {
+      "type":"设备数量",
+      "dataList":[
+        {"id":1,"workTime":"01/06","value":"3000","sort":"1","unit":"台"},
+        {"id":2,"workTime":"01/07","value":"6000","sort":"2","unit":"台"},
+        {"id":3,"workTime":"01/08","value":"4500","sort":"3","unit":"台"},
+        {"id":4,"workTime":"01/09","value":"4100","sort":"4","unit":"台"},
+        {"id":5,"workTime":"01/10","value":"3100","sort":"5","unit":"台"},
+        {"id":6,"workTime":"01/11","value":"5200","sort":"6","unit":"台"},
+        {"id":7,"workTime":"01/12","value":"3600","sort":"7","unit":"台"},
+        {"id":8,"workTime":"01/13","value":"4800","sort":"8","unit":"台"},
+        {"id":9,"workTime":"01/14","value":"5300","sort":"9","unit":"台"},
+        {"id":10,"workTime":"01/15","value":"3800","sort":"10","unit":"台"}
+      ]
+    }
+  ]
+}

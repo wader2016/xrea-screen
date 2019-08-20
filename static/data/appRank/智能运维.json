@@ -1,0 +1,52 @@
+{
+  "name": "智能运维",
+  "data": {
+    "description": "智能运维APP提供设备监控、维保管理、运营管理、机群管理等功能，设备状况尽在“掌”握，可以帮助经销商更好的服务客户群体，快速精准的营销和售后服务，帮助各级客户更好的使用管理徐工设备，创造更多的价值。",
+    "image": ["static/img/appRank/智能运维1.jpg","static/img/appRank/智能运维2.jpg"],
+    "value": [
+      {
+        "name":"实时获取设备状况",
+        "description":"无论距离多远，无论身在何处，随时、随地掌握你的设备动态。"
+      },
+      {
+        "name":"有效管理燃料成本",
+        "description":"设备燃料消耗知多少？每日报表告诉你。"
+      },
+      {
+        "name":"服务资源近在咫尺",
+        "description":"维修保养一键预约，服务工程师、原厂零部件就在你身边。"
+      }
+    ],
+    "mainFunction": [
+      {
+        "icon":"icon-shouhoufuwu",
+        "name":"售后服务"
+      },
+      {
+        "icon":"icon-yanfazhichi",
+        "name":"研发支持"
+      },
+      {
+        "icon":"icon-xiaoshouguanli",
+        "name":"销售管理"
+      },
+      {
+        "icon":"icon-shengchanguanli",
+        "name":"生产管理"
+      }
+    ],
+    "client": [
+      {
+        "image":"static/img/appRank/中国铁建.png",
+        "name":"中铁建",
+        "url":"/screen/application/3"
+      },
+      {
+        "image":"static/img/appRank/中国交通.png",
+        "name":"中交建",
+        "url":""
+      }
+    ]
+
+  }
+}

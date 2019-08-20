@@ -1,0 +1,202 @@
+{
+  "name":"车辆运行概况",
+	"data": [
+    {
+      "name":"车辆运行状况",
+      "datalist": [
+        {"id":1,"name":"行驶总里程","value":"1574828","sort":"1","unit":"千米"},
+        {"id":2,"name":"行驶总工时","value":"0079744","sort":"2","unit":"小时"},
+        {"id":3,"name":"码表均值","value":"023365","sort":"3","unit":"千米"},
+        {"id":4,"name":"单车工时","value":"001183","sort":"4","unit":"小时"}
+      ]
+    },
+    {
+      "name":"实时报警统计",
+      "datalist": [
+        {"id":1,"name":"一级报警","value":"000","sort":"1","unit":"个"},
+        {"id":2,"name":"二级报警","value":"000","sort":"2","unit":"个"},
+        {"id":3,"name":"三级报警","value":"011","sort":"3","unit":"个"}
+      ]
+    },
+    {
+      "name":"今日统计",
+      "datalist": [
+        {"id":1,"name":"今日总里程","value":"9291","sort":"1","unit":"千米"},
+        {"id":2,"name":"今日总时长","value":"352","sort":"2","unit":"小时"}
+      ]
+    },
+    {
+      "name":"近7天行驶时长统计",
+      "workTimeList": [
+        {
+          "type":"自营",
+          "datalist":[
+            {"id":1,"workTime":"2019-01-05","value":"488","sort":"1","unit":"小时"},
+            {"id":2,"workTime":"2019-01-06","value":"465","sort":"2","unit":"小时"},
+            {"id":3,"workTime":"2019-01-07","value":"526","sort":"3","unit":"小时"},
+            {"id":4,"workTime":"2019-01-08","value":"450","sort":"4","unit":"小时"},
+            {"id":5,"workTime":"2019-01-09","value":"435","sort":"5","unit":"小时"},
+            {"id":6,"workTime":"2019-01-10","value":"395","sort":"6","unit":"小时"},
+            {"id":7,"workTime":"2019-01-11","value":"405","sort":"7","unit":"小时"}
+          ]
+        },
+        {
+          "type":"租赁",
+          "datalist":[
+            {"id":1,"workTime":"2019-01-05","value":"35","sort":"1","unit":"小时"},
+            {"id":2,"workTime":"2019-01-06","value":"24","sort":"2","unit":"小时"},
+            {"id":3,"workTime":"2019-01-07","value":"21","sort":"3","unit":"小时"},
+            {"id":4,"workTime":"2019-01-08","value":"27","sort":"4","unit":"小时"},
+            {"id":5,"workTime":"2019-01-09","value":"30","sort":"5","unit":"小时"},
+            {"id":6,"workTime":"2019-01-10","value":"29","sort":"6","unit":"小时"},
+            {"id":7,"workTime":"2019-01-11","value":"25","sort":"7","unit":"小时"}
+          ]
+        }
+      ]
+    },
+    {
+      "name":"近七天车辆运行状况",
+      "workTimeList":[
+        {
+          "type":"车辆数量",
+          "datalist":[
+            {"id":1,"workTime":"02:00","value":"22","sort":"1","unit":"辆"},
+            {"id":2,"workTime":"04:00","value":"20","sort":"2","unit":"辆"},
+            {"id":3,"workTime":"06:00","value":"43","sort":"3","unit":"辆"},
+            {"id":4,"workTime":"08:00","value":"68","sort":"4","unit":"辆"},
+            {"id":5,"workTime":"10:00","value":"80","sort":"5","unit":"辆"},
+            {"id":6,"workTime":"12:00","value":"89","sort":"6","unit":"辆"},
+            {"id":7,"workTime":"14:00","value":"82","sort":"7","unit":"辆"},
+            {"id":8,"workTime":"16:00","value":"78","sort":"8","unit":"辆"},
+            {"id":9,"workTime":"18:00","value":"74","sort":"9","unit":"辆"},
+            {"id":10,"workTime":"20:00","value":"60","sort":"10","unit":"辆"},
+            {"id":11,"workTime":"22:00","value":"46","sort":"11","unit":"辆"},
+            {"id":12,"workTime":"24:00","value":"36","sort":"12","unit":"辆"}
+          ]
+        },
+        {
+          "type":"总里程",
+          "datalist":[
+            {"id":1,"workTime":"02:00","value":"810","sort":"1","unit":"千米"},
+            {"id":2,"workTime":"04:00","value":"823","sort":"2","unit":"千米"},
+            {"id":3,"workTime":"06:00","value":"4323","sort":"3","unit":"千米"},
+            {"id":4,"workTime":"08:00","value":"6323","sort":"4","unit":"千米"},
+            {"id":5,"workTime":"10:00","value":"8422","sort":"5","unit":"千米"},
+            {"id":6,"workTime":"12:00","value":"9223","sort":"6","unit":"千米"},
+            {"id":7,"workTime":"14:00","value":"8432","sort":"7","unit":"千米"},
+            {"id":8,"workTime":"16:00","value":"7328","sort":"8","unit":"千米"},
+            {"id":9,"workTime":"18:00","value":"7123","sort":"9","unit":"千米"},
+            {"id":10,"workTime":"20:00","value":"5321","sort":"10","unit":"千米"},
+            {"id":11,"workTime":"22:00","value":"3443","sort":"11","unit":"千米"},
+            {"id":12,"workTime":"24:00","value":"2348","sort":"12","unit":"千米"}
+          ]
+        }
+      ]
+    },
+    {
+      "name":"近七天油电差统计",
+      "workTimeList":[
+        {
+          "type":"总里程",
+          "datalist":[
+            {"id":1,"workTime":"2019-01-05","value":"4465","sort":"1","unit":"千米"},
+            {"id":2,"workTime":"2019-01-06","value":"4342","sort":"2","unit":"千米"},
+            {"id":3,"workTime":"2019-01-07","value":"8120","sort":"3","unit":"千米"},
+            {"id":4,"workTime":"2019-01-08","value":"11002","sort":"4","unit":"千米"},
+            {"id":5,"workTime":"2019-01-09","value":"12461","sort":"5","unit":"千米"},
+            {"id":6,"workTime":"2019-01-10","value":"11583","sort":"6","unit":"千米"},
+            {"id":7,"workTime":"2019-01-11","value":"11984","sort":"7","unit":"千米"}
+          ]
+        },
+        {
+          "type":"节省费用",
+          "datalist":[
+            {"id":1,"workTime":"2019-01-05","value":"1453","sort":"1","unit":"元"},
+            {"id":2,"workTime":"2019-01-06","value":"1383","sort":"2","unit":"元"},
+            {"id":3,"workTime":"2019-01-07","value":"2670","sort":"3","unit":"元"},
+            {"id":4,"workTime":"2019-01-08","value":"2890","sort":"4","unit":"元"},
+            {"id":5,"workTime":"2019-01-09","value":"2745","sort":"5","unit":"元"},
+            {"id":6,"workTime":"2019-01-10","value":"2756","sort":"6","unit":"元"},
+            {"id":7,"workTime":"2019-01-11","value":"2835","sort":"7","unit":"元"}
+          ]
+        }
+      ]
+    },
+    {
+      "name":"车辆运行热力信息",
+      "datalist": [
+        {"id":1,"name":"总耗电","value":"580185","sort":"1","unit":"度"},
+        {"id":2,"name":"减少碳排放","value":"105.9","sort":"2","unit":"吨"},
+        {"id":3,"name":"物流运力峰值","value":"83","sort":"3","unit":"%"},
+        {"id":4,"name":"车辆运行总况","value":"2016","sort":"4","unit":"辆"},
+        {"id":5,"name":"故障","value":"0.87","sort":"5","unit":"%"},
+        {"id":6,"name":"停留","value":"34.78","sort":"5","unit":"%"},
+        {"id":7,"name":"充电","value":"8.28","sort":"5","unit":"%"},
+        {"id":8,"name":"行驶","value":"55.07","sort":"5","unit":"%"},
+        {"id":9,"name":"物流客户总况","value":"5819","sort":"5","unit":"位"},
+        {"id":10,"name":"个人用户","value":"62.75","sort":"5","unit":"%"},
+        {"id":11,"name":"企业用户","value":"37.25","sort":"5","unit":"%"}
+
+      ]
+    },
+    {
+      "name":"昨日统计",
+      "datalist": [
+        {"id":1,"name":"昨日运力峰值","value":"65","sort":"1","unit":"%"},
+        {"id":2,"name":"昨日运单数量","value":"1508","sort":"2","unit":"个"},
+        {"id":3,"name":"同比前一日增长","value":"2", "state": "up","sort":"3","unit":"%"},
+        {"id":4,"name":"车辆运行总况","value":"2016","sort":"4","unit":"辆"}
+      ]
+    },
+    {
+      "name":"昨日运行单数",
+      "datalist": [
+        {"id":1,"workTime":"2019-01-02","value":"1400","sort":"1","unit":"个"},
+        {"id":2,"workTime":"2019-01-03","value":"1434","sort":"2","unit":"个"},
+        {"id":3,"workTime":"2019-01-04","value":"1345","sort":"3","unit":"个"},
+        {"id":4,"workTime":"2019-01-05","value":"1489","sort":"4","unit":"个"},
+        {"id":5,"workTime":"2019-01-06","value":"1412","sort":"5","unit":"个"},
+        {"id":6,"workTime":"2019-01-07","value":"1258","sort":"6","unit":"个"},
+        {"id":7,"workTime":"2019-01-08","value":"1348","sort":"7","unit":"个"},
+        {"id":8,"workTime":"2019-01-09","value":"1400","sort":"8","unit":"个"},
+        {"id":9,"workTime":"2019-01-10","value":"1467","sort":"9","unit":"个"},
+        {"id":10,"workTime":"2019-01-11","value":"1568","sort":"10","unit":"个"}
+      ]
+    },
+    {
+      "name":"今日运单数",
+      "total":"32",
+      "datalist": [
+        {"id":1,"workTime":"2019-01-02 09:00:01","transportPerson":"王金良","num":"1901121158481698",
+          "vehicleNum":"京AD91136","station":"圆通顺义总部","status":"已接单","unit":"个"},
+        {"id":2,"workTime":"2019-01-02 08:58:43","transportPerson":"董传奇","num":"1901121205412948",
+          "vehicleNum":"京AD97571","station":"圆通顺义总部","status":"已签收","unit":"个"},
+        {"id":3,"workTime":"2019-01-02 08:56:23","transportPerson":"李清堂","num":"1901121205412953",
+          "vehicleNum":"京Q66ZN3","station":"圆通顺义总部","status":"已签收","unit":"个"},
+        {"id":4,"workTime":"2019-01-02 08:55:26","transportPerson":"文登封","num":"1901121205896774",
+          "vehicleNum":"京Q63ZF0","station":"圆通顺义总部","status":"已签收","unit":"个"},
+        {"id":5,"workTime":"2019-01-02 08:54:56","transportPerson":"王钟利","num":"1901120500071600",
+          "vehicleNum":"京Q466N3","station":"圆通顺义总部","status":"已签收","unit":"个"},
+        {"id":6,"workTime":"2019-01-02 08:53:53","transportPerson":"郭瑞一","num":"1901120500071600",
+          "vehicleNum":"京Q35Q63","station":"圆通顺义总部","status":"已签收","unit":"个"},
+        {"id":7,"workTime":"2019-01-02 08:52:13","transportPerson":"吴占峰","num":"1901120500109721",
+          "vehicleNum":"京Q573N3","station":"欢乐谷营业部","status":"已签收","unit":"个"},
+        {"id":8,"workTime":"2019-01-02 08:51:32","transportPerson":"吴力","num":"1901120500109765",
+          "vehicleNum":"京Q5C908","station":"月坛营业部","status":"已签收","unit":"个"},
+        {"id":9,"workTime":"2019-01-02 08:45:50","transportPerson":"朱瑞","num":"1901120500109987",
+          "vehicleNum":"京Q3C632","station":"云岗营业部","status":"已签收","unit":"个"},
+        {"id":10,"workTime":"2019-01-02 08:44:20","transportPerson":"王杰","num":"1901120500113543",
+          "vehicleNum":"京Q3C391","station":"中关村事业部","status":"已签收","unit":"个"}
+      ]
+    },
+    {
+      "name":"节省成本信息",
+      "datalist": [
+        {"id":1,"name":"充电总金额","value":"301569","sort":"1","unit":"元"},
+        {"id":2,"name":"充电总次数","value":"5610","sort":"2","unit":"次"},
+        {"id":3,"name":"比燃油车成本降低","value":"9320","sort":"3","unit":"元"},
+        {"id":4,"name":"比燃油车成本降低","value":"55","sort":"2","unit":"%"}
+      ]
+    }
+  ]
+}

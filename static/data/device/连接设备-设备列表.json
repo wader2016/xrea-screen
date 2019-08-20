@@ -1,0 +1,23 @@
+{"name":"设备列表",
+	"data": [
+		{"id":1,"name":"起重机","type":"126","num":"94656","unit":"种","runTime":"13570","timeUnit":"万小时","image": "/static/img/device-small-img/起重机1-小图.png","sort":"1"},
+		{"id":2,"name":"装载机","type":"50","num":"15193","unit":"种","runTime":"57494","timeUnit":"万小时","image": "/static/img/device-small-img/装载机-小图.png","sort":"2"},
+    {"id":13,"name":"数控机床","type":"56","num":"15000","unit":"种","runTime":"32","timeUnit":"万小时","image": "/static/img/device-small-img/数控机床-小图.png","sort":"13"},
+    {"id":18,"name":"升降机","type":"65","num":"3000","unit":"种","runTime":"302","timeUnit":"万小时","image": "/static/img/device-small-img/电梯-小图.png","sort":"18"},
+    {"id":20,"name":"离心机","type":"42","num":"3000","unit":"种","runTime":"9.8","timeUnit":"万小时","image": "/static/img/device-small-img/离心机-小图.png","sort":"20"},
+    {"id":16,"name":"制砖机","type":"56","num":"1006","unit":"种","runTime":"23.5","timeUnit":"万小时","image": "/static/img/device-small-img/制砖机-小图.png","sort":"16"},
+    {"id":22,"name":"智能果蔬分拣机","type":"48","num":"500","unit":"种","runTime":"432","timeUnit":"万小时","image": "/static/img/device-small-img/选籽机-小图.png","sort":"22"},
+    {"id":3,"name":"压路机","type":"52","num":"13294","unit":"种","runTime":"9696","timeUnit":"万小时","image": "/static/img/device-small-img/压路机-小图.png","sort":"3"},
+    {"id":8,"name":"物流运输","type":"78","num":"94656","unit":"种","runTime":"1412","timeUnit":"万小时","image": "/static/img/device-small-img/自卸车-小图.png","sort":"8"},
+    {"id":4,"name":"摊铺机","type":"44","num":"15193","unit":"种","runTime":"3913","timeUnit":"万小时","image": "/static/img/device-small-img/摊铺机-小图.png","sort":"4"},
+    {"id":11,"name":"消防设备","type":"36","num":"27000","unit":"种","runTime":"10.4","timeUnit":"万小时","image": "/static/img/device-small-img/消防车-小图片.png","sort":"11"},
+    {"id":5,"name":"挖掘机","type":"61","num":"28487","unit":"种","runTime":"1628","timeUnit":"万小时","image": "/static/img/device-small-img/挖掘机1-小图.png","sort":"5"},
+    {"id":6,"name":"泵车","type":"44","num":"32285","unit":"种","runTime":"5834","timeUnit":"万小时","image": "/static/img/device-small-img/泵车-小图.png","sort":"6"},
+    {"id":7,"name":"旋挖机","type":"37","num":"11395","unit":"种","runTime":"298944","timeUnit":"万小时","image": "/static/img/device-small-img/旋挖机-小图.png","sort":"7"},
+    {"id":10,"name":"新能源汽车","type":"71","num":"363636","unit":"种","runTime":"24989","timeUnit":"万小时","image": "/static/img/device-small-img/新能源汽车-小图.png","sort":"10"},
+    {"id":9,"name":"环卫设备","type":"38","num":"55000","unit":"种","runTime":"204.6","timeUnit":"万小时","image": "/static/img/device-small-img/环卫设备-小图.png","sort":"9"},
+    {"id":15,"name":"叉车","type":"52","num":"6000","unit":"种","runTime":"248610","timeUnit":"万小时","image": "/static/img/device-small-img/叉车-小图.png","sort":"15"},
+    {"id":17,"name":"空压机","type":"58","num":"4800","unit":"种","runTime":"63","timeUnit":"万小时","image": "/static/img/device-small-img/空压机-小图.png","sort":"17"},
+    {"id":19,"name":"锅炉","type":"72","num":"1900","unit":"种","runTime":"221","timeUnit":"万小时","image": "/static/img/device-small-img/锅炉-小图.png","sort":"19"}
+	]
+}

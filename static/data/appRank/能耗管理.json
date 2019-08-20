@@ -1,0 +1,48 @@
+{
+  "name": "能耗管理",
+  "data": {
+    "description": "能耗管理APP主要功能包括工业中央空调节能应用、故障报警预警应用，市场定位为有中央空调的工业企业厂房、车间、大楼、冷库、物流中心等企业单位，为他们提供基于工业设备物联网智能监控全系列产品及一体化解决方案，帮助相关企业结合物联网与互联网+实现空调节能，降低成本；通过故障预警减少杜绝故障，减少人工。",
+    "image": ["static/img/appRank/能耗管理1.jpg","static/img/appRank/能耗管理2.jpg"],
+    "value": [
+      {
+        "name":"",
+        "description":"整体解决方案通过物联网硬件、物联网应用平台及移动应用等综合技术路径的实现，帮助企业工业中央空调节能、故障监测，通过机器学习算法，维护、管理中央空调设备，大幅减少设备停机时间、延长设备使用寿命，降低生产成本，通过机器数据与设备点检、设备巡检等应用的有效结合，达到机器与机器数据与设备操作人员的无缝结合，有效提高工人生产工作效率，降低人力成本"
+      },
+      {
+        "name":"",
+        "description":"通过中央空调故障预警，保障车间、厂房生产环境，提高了生产设备的稳定性、产品生产工艺的稳定性，大大提高产品生产质量与车间生产的产能。"
+      }
+    ],
+    "mainFunction": [
+      {
+        "icon":"icon-shishijiankong",
+        "name":"设备监控"
+      },
+      {
+        "icon":"icon-tiaoshifenchang",
+        "name":"自动调控"
+      },
+      {
+        "icon":"icon-shishibaojing",
+        "name":"实时预警"
+      },
+      {
+        "icon":"icon-zhinengjisuan",
+        "name":"智能运算"
+      }
+    ],
+    "client": [
+      {
+        "image":"static/img/appRank/徐工集团.png",
+        "name":"徐工集团",
+        "url":"/screen/application/1"
+      },
+      {
+        "image":"static/img/appRank/如家.jpg",
+        "name":"如家",
+        "url":""
+      }
+    ]
+
+  }
+}

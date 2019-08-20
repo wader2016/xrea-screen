@@ -1,0 +1,68 @@
+{
+  "name": "云MES",
+  "data": {
+    "description": "云MES APP面向离散制造业企业生产现场全流程信息管控， 帮助企业实现生产运营管理、决策优化，具有快速部署、云端 扩展、便捷应用等特点，帮助制造业企业提质增效降本降耗。",
+    "image": ["static/img/appRank/云MES1.png","static/img/appRank/云MES2.png"],
+    "value": [
+      {
+        "name":"",
+        "description":"平台 + 行业组件 + 个性化定制的行业解决方案快速交 付体系。"
+      },
+      {
+        "name":"",
+        "description":"元对象建模及微服务架构，兼顾安全性和稳定性。"
+      },
+      {
+        "name":"",
+        "description":"采用多租户技术，适用集团和单体公司使用。"
+      },
+      {
+        "name":"",
+        "description":"云生态扩展，云计算 + 云存储 + 云服务三位一体的创 新性云服务模式，为企业提供生产数据挖掘咨询服务。"
+      }
+    ],
+    "mainFunction": [
+      {
+        "icon":"icon-shengchanguanli",
+        "name":"生产管理"
+      },
+      {
+        "icon":"icon-zhiliangguanli",
+        "name":"质量管理"
+      },
+      {
+        "icon":"icon-wuliupeisong",
+        "name":"物流配送"
+      },
+      {
+        "icon":"icon-xianchangkantu",
+        "name":"现场看图"
+      },
+      {
+        "icon":"icon-shebeiguanli",
+        "name":"设备管理"
+      },
+      {
+        "icon":"icon-gongyiguanli",
+        "name":"工艺管理"
+      }
+    ],
+    "client": [
+      {
+        "image":"static/img/appRank/徐工集团.png",
+        "name":"徐工集团",
+        "url":"/screen/application/1"
+      },
+      {
+        "image":"static/img/appRank/世通重工.png",
+        "name":"世通重工",
+        "url":""
+      },
+      {
+        "image":"static/img/appRank/欧力特.png",
+        "name":"欧力特",
+        "url":""
+      }
+    ]
+  }
+}
